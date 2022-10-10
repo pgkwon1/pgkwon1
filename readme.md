@@ -1,6 +1,6 @@
 <div align="center">
   <h1>MY SKILLS</h1>
-  <span> 백엔드, 포른트엔드, 서버 개발하고 있는 권혁진 이라고 합니다. <br>
+  <span> 백엔드, 프른트엔드, 서버 개발하고 있는 권혁진 이라고 합니다. <br>
   매일 발전하고 공부하는 즐거움으로 살아가고 있습니다.</span><br><br>
   <p>
   Front-End<br>
