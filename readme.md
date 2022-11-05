@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/sequelize-FFB13B?style=for-the-badge&logo=sequelize&logoColor=white"><br>
 
   Studying...<br>
-  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"> <img src="https://img.shields.io/badge/vuex-4FC08D?style=for-the-badge&logo=vuex&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   
   쉐플 : https://sharepl.net
   
