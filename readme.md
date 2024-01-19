@@ -1,4 +1,8 @@
 <div align="center">
+  <p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PGKWON1&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-End%20Front-End%20Developer&descAlignY=51&descAlign=62"/>
+</p>
+
   <h1>MY SKILLS</h1>
   <span> 백엔드, 프론트엔드, 서버 개발하고 있는 권혁진 이라고 합니다. <br>
   매일 발전하고 공부하는 즐거움으로 살아가고 있습니다.</span><br><br>
@@ -18,8 +22,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-339933?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   
   <br>
